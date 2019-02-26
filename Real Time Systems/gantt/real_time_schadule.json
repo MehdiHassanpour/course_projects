@@ -1,0 +1,28 @@
+{
+  "packages": [
+    { "label" : "",
+      "start": 0,
+      "end": 0
+    },
+    { "label" : "J 1",
+      "start": 4,
+      "end": 6,
+      "milestones": [3, 7],
+      "color": "violet"
+    },
+    { "label" : "J 2",
+      "start": 0,
+      "end": 4,
+      "milestones" : [0, 9]
+    },
+    { "label" : "J 3",
+      "start": 6,
+      "end": 16,
+      "milestones" : [0, 18]
+    }
+  ],
+
+"title" : "\\textbf{XXX schaduling}",
+"xlabel" : "time",
+"xticks" : [2,4,6,8,10,12,14,16,18]
+}

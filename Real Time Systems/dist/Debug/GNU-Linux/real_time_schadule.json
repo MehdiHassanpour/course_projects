@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "label": "",
+      "start": 0,
+      "end": 0
+    },
+    {
+      "label": "J 1",
+      "start": 4,
+      "end": 6,
+      "milestones": [3, 7],
+      "color": "cyan"
+    },
+    {
+      "label": "J 2",
+      "start": 0,
+      "end": 4,
+      "milestones": [0, 9],
+      "color": "darkgray"
+    },
+    {
+      "label": "J 3",
+      "start": 6,
+      "end": 16,
+      "milestones": [0, 18],
+      "color": "gray"
+    }
+  ],
+  
+  "title" : "\\textbf{sefw schaduling}",
+  "xlabel": "time",
+  "xticks": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+}
